@@ -1,0 +1,24 @@
+{
+  "name": "gestao-service",
+  "version": "1.0.0",
+  "description": "Api criada para o sistema Gestão Service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VivianeCR/ApiRest_node.git"
+  },
+  "author": "vivianerosario.ep@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VivianeCR/ApiRest_node/issues"
+  },
+  "homepage": "https://github.com/VivianeCR/ApiRest_node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
